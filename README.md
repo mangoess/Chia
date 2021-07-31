@@ -1,3 +1,5 @@
+# ARCHIVED BECAUSE BUG PATCHED, RIP.
+
 # WELCOME TO CHIA
 ## This is a neopet's hack that they didn't see
 
