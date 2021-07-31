@@ -13,3 +13,5 @@ If you play Neopet's USE AT YOUR OWN RISK
 
 # Why am I doing this anyways?
 I want to experiment, if this legimitely does work, this project will be sent to the correct personnell and will be either archived / deleted, if the NeoPet's Team does not respond to my claim this project will be open till they do
+
+# ARCHIVED BECAUSE BUG PATCHED, RIP.
